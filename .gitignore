@@ -109,3 +109,4 @@ venv.bak/
 
 # PROJECT-related
 db.sqlite3
+notes.txt
